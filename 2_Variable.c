@@ -25,8 +25,26 @@ void main(){
     // short int h = 1311;
     // printf("%d\n",h);
 
+    // Characters
+    // char a = 'a';"
+    // printf("%d",a);
+    // printf("%c",a);"
+
+
     
 
+    //  Operators 
+
+    // int a = 65;
+    // printf("%d\n",a); //Here the value of a will be as same as that 
+    // printf("%c\n",a); //Here the value of a will be evaluated according to ASCII table.
+
+
+    // char m = 'a';
+    // printf("%d\n",m);
+    // printf("%c\n",m);
+
+    
     
 
 }
